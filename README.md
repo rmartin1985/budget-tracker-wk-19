@@ -54,7 +54,7 @@
   ```
 
   ## Deployed Application
-  Please click the link below to be taken to a Heroku app of this application 
+  Please click the following link  to be taken to a Heroku app of this application: 
   [Budget-Traker](https://warm-chamber-52689.herokuapp.com/)
 
   ## Demo
